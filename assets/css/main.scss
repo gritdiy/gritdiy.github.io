@@ -1,0 +1,44 @@
+---
+---
+
+@import "type-on-strap";
+/*
+#main {
+  font-size: 60px;
+}
+*/
+
+#main {
+  background-color: unset;
+}
+
+.site-title {
+    font-size: 2em !important;
+}
+
+nav {
+  ul {
+    li {
+      text-transform: lowercase;
+    }
+  }
+}
+
+.post-teaser {
+
+  h1 {
+    font-size: 36px;
+  }
+
+}
+
+.call-out {
+  text-align: left;
+  font-size: 25px;
+  color: #383838;
+  padding: 3% 22%;
+
+  p {
+    text-shadow: none;
+  }
+}
