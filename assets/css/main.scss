@@ -42,3 +42,10 @@ nav {
     text-shadow: none;
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .call-out {
+    font-size: 22px;
+    padding: 3% 3%;
+  }
+}
