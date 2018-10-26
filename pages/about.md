@@ -2,13 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Grit DIY was invented by Emily Keebler, maker, crafter, music therapist, parent in Asheville NC. She hopes Grit will help define her dreams as they are coming to fruition as well as inspire other gritty makers. To see Emily’s philosophy of DIY look at her first blog post [here](/2018/10/05/diy-as-a-lifestyle.html).
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+<div class="post-img">
+   <img src="{{ site.baseurl }}/assets/img/pexels/emily-2.jpg">
+</div>
