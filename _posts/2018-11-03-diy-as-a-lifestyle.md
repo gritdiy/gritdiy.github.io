@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DIY as a lifestyle
-tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
 There is some version of my perfect world in which I am an artist who makes a living doing art. In this dream world I create amazing art (music really) and people just resonate with it, love it, and can’t get enough of it. I spent much of my life dreaming of this. Well, this is awkward… it didn’t happen. Big fat surprise to me, I didn’t become a rock star!
