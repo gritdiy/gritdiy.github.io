@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 # baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+#url: "https://sylhare.github.io"
+url: "https://gritdiy.com/"
 title: Grit DIY # site's title
 # description: "A website with blog posts and pages" # used by search engines
 
@@ -17,8 +18,8 @@ theme_settings:
   header_text: > #two or three lines to describe your site
      <p>grit<br>1. small, loose particles of stone or sand.<br>2. courage and resolve; strength of character.</p>
   header_text_feature_image: assets/img/pexels/bricks.jpeg
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  #footer_text: >
+  # Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -29,7 +30,6 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
   google_plus:
   instagram:
   keybase:
