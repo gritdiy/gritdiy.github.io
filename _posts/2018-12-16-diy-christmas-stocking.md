@@ -3,6 +3,10 @@ layout: post
 title: DIY Christmas Stocking
 ---
 
+<div class="post-img">
+   <img src="{{ site.baseurl }}/assets/img/pexels/DSC05013.jpg">
+</div>
+
 1. Cut stocking shape out of thick felt. (I used another stocking to get the size and rough shape, and traced around it on paper. When I got the shape I liked, I cut that out. Then I lightly outlined around the template onto the felt using a marker.)
 2. Sew together the two pieces using a machine. (You could also use a blanket stitch.)
 3. Hand sew on fun ribbons and borders!
