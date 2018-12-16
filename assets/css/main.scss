@@ -81,3 +81,8 @@ article header {
     margin-top: -17px;
   }
 }
+
+/* no text shadow on post pages */
+h1.title {
+    text-shadow: none !important;
+}
