@@ -4,7 +4,7 @@ title: DIY Christmas Stocking
 ---
 
 <div class="post-img">
-   <img src="{{ site.baseurl }}/assets/img/pexels/DSC05013.jpg">
+   <img src="{{ site.baseurl }}/assets/img/pexels/christmas-stocking.jpg">
 </div>
 
 1. Cut stocking shape out of thick felt. (I used another stocking to get the size and rough shape, and traced around it on paper. When I got the shape I liked, I cut that out. Then I lightly outlined around the template onto the felt using a marker.)
