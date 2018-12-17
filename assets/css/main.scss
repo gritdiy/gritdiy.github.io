@@ -86,3 +86,8 @@ article header {
 h1.title {
     text-shadow: none !important;
 }
+
+/* don't cut off image height on home page */
+.post-img {
+  height: auto !important;
+}
