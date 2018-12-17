@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DIY Christmas Stocking
+image: christmas-stockings.jpg
 ---
 
 <div class="post-img">
